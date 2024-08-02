@@ -1,4 +1,4 @@
-# Pandas Library Practice
+# Pandas Library
 
 ## Introduction
 
